@@ -7,10 +7,10 @@
 		"happiness": 40,
 		"culture": 40,
 		"science": 40,
-		"maintenance": 120,
+		"maintenance": 40,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": ""
+		"requiredTech": "Trapping",
 	},
 	{
 		"name": "Ducts",
@@ -21,5 +21,30 @@
 		"happiness": 60,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
-	}
+
+	},
+	{
+		"name": "Study Room",
+		"replaces": "Amphitheater",
+		"uniqueTo": "Nikke",
+		"cost": 140,
+		"hurryCostModifier": 240,
+		"Culture": 80,
+		"maintenance": 60,
+		"requiredBuildingInThisCity": "Monument",
+		"requiredTech": "DramaAndPoetry",
+	},
+	{
+		"name": "Eden",
+		"replaces": "Shrine",
+		"uniqueTo": "Nikke",
+		"cost": 26,
+		"hurryCostModifier": 100,
+		"faith": 400,
+		"happiness": 60,
+		"culture": 40,
+		"maintenance": 20,
+		"requiredTech": "Pottery",
+		
+		
 ]
