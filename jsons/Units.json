@@ -13,5 +13,16 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
+	},
+	{
+		"name": "Nikke Mass Production",
+		"unitType": "Sword",
+		"uniqueTo": "Nikke",
+		"replaces": "Warrior",
+		"movement": 4,
+		"strength": 60,
+		"range": 1,
+		"cost": 140,
+		
 	}
 ]
