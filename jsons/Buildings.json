@@ -15,7 +15,7 @@
 		"replaces": "Aqueduct",
 		"uniqueTo": "DOROTHY",
 		"cost": 120,
-		"happiness": 60,
+		"happiness": 60, 
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering",
 
@@ -49,6 +49,11 @@
                 "cost": 50,
                 "defense": 14,
                 "health": 80,
-                "requiredTech": "Masonry"
+                "requiredTech": "Masonry",
+                "type": "improvement",
+                "city_improvement": true,
+                "effect": {
+                "increaseDefense": 14,
+                "increaseHealth": 80
 	}
 	]
