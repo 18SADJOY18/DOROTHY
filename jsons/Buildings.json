@@ -45,7 +45,7 @@
 	{
 	        "name": "Divine Protection",
                 "replaces": "Walls",
-                "uniqueTo": "DOROTHY",  // Si quieres que sea exclusivo para una civilización específica, si no, puedes omitir esta línea.
+                "uniqueTo": "DOROTHY",  
                 "cost": 50,
                 "requiredTech": "Masonry",
                 "defense": 14,
