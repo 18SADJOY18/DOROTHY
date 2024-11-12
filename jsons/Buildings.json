@@ -44,11 +44,11 @@
 	},
 	{
 		"name": "Divine Protection",
-		"replaces": "Walls",
-		"uniqueTo": "DOROTHY",
-		"cost": 50,
-		"CityStrength": 14,
-		"CityHealth": 80,
-		"requiredTech": "Masonry"
+                "replaces": "Walls",
+                "uniqueTo": "DOROTHY",
+                "cost": 50,
+                "strength": 14,
+                "health": 80,
+                "requiredTech": "Masonry"
 	}
 	]
