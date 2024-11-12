@@ -1,4 +1,4 @@
-[
+        [
 	{
 		"name": "Phasers",
 		"unitType": "Ranged",
@@ -26,4 +26,4 @@
 		"attackSound": "phasers"
 		
 	}
-]
+        ]
