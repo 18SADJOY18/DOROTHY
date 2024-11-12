@@ -69,5 +69,13 @@
 		"food": 40,
 		"production": 12,
 		"culture": 10,
+	},
+	{
+		"name": "Hands of God",
+		"replace": "Barracks",
+		"uniqueTo": "DOROTHY",
+		"cost": 40,
+		"requieredTeach": "Bronze Working",
+		"cityStrength": 26,
 	}
 	]
