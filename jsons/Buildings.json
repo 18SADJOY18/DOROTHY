@@ -32,7 +32,7 @@
 		"Culture": 80,
 		"maintenance": 60,
 		"requiredBuildingInThisCity": "Monument",
-		"requiredTech": "Drama And Poetry",
+		"requiredTech": "DramaAndPoetry",
 	},
 	{
 		"name": "Eden",
