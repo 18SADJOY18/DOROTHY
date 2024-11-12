@@ -47,7 +47,7 @@
                 "replaces": "Walls",
                 "uniqueTo": "DOROTHY",
                 "cost": 50,
-                "strength": 14,
+                "defense": 14,
                 "health": 80,
                 "requiredTech": "Masonry"
 	}
