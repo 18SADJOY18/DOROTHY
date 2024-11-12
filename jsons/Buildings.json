@@ -50,5 +50,14 @@
                 "requiredTech": "Masonry",
                 "cityStrength": 10,
                 "cityHealth": 50,
+	},
+	{
+		"name": "ARK Food Production",
+		"replaces": "Granary",
+		"uniqueTo": "DOROTHY",
+		"cost": 90,
+		"requieredTeach": "Pottery",
+		"production": 40,
+		"food": 120,
 	}
 	]
