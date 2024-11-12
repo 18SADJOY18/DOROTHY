@@ -43,10 +43,9 @@
 		"requiredTech": "Pottery",
 	},
 	{
-	        
-                "name": "Divine Protection",
+	        "name": "Divine Protection",
                 "replaces": "Walls",
-                "uniqueTo": "DOROTHY",
+                "uniqueTo": "DOROTHY",  // Si quieres que sea exclusivo para una civilización específica, si no, puedes omitir esta línea.
                 "cost": 50,
                 "requiredTech": "Masonry",
                 "defense": 14,
@@ -59,5 +58,5 @@
         {
                 "stat": "cityHealth",
                 "value": 80
-        }
+	}
 	]
