@@ -58,7 +58,7 @@
 		"cost": 80,
 		"production": 40,
 		"food": 120,
-		"requieredTech": "Pottery",
+		"requiredTech": "Pottery",
 	},
 	{
 		"name": "Statue of Dororthy",
@@ -73,7 +73,7 @@
 	{
 		"name": "Hands of God",
 		"uniqueTo": "DOROTHY",
-		"replace": "Barracks",
+		"replaces": "Barracks",
 	        "cost": 40,
 		"requieredTech": "Bronze Working",
 		"cityStrength": 26,
