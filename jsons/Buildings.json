@@ -8,7 +8,6 @@
 		"culture": 40,
 		"science": 40,
 		"maintenance": 40,
-		"isNationalWonder": true,
 		"requiredTech": "Trapping",
 	},
 	{
