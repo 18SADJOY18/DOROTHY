@@ -75,7 +75,7 @@
 		"uniqueTo": "DOROTHY",
 		"replaces": "Barracks",
 	        "cost": 40,
-		"requieredTech": "Bronze Working",
+		"requiredTech": "Bronze Working",
 		"cityStrength": 26,
 	}
 	]
