@@ -54,6 +54,6 @@
                 "city_improvement": true,
                 "effect": {
                 "increaseDefense": 14,
-                "increaseHealth": 80
+                "increaseHealth": 80,
 	}
 	]
