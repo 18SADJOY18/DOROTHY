@@ -62,8 +62,8 @@
 	},
 	{
 		"name": "Statue of Dororthy",
-		"replaces": "Monument",
 		"uniqueTo": "DOROTHY",
+		"replaces": "Monument",
 		"cost": 40,
 		"happines": 16,
 		"food": 40,
@@ -72,10 +72,10 @@
 	},
 	{
 		"name": "Hands of God",
-		"replace": "Barracks",
 		"uniqueTo": "DOROTHY",
-		"cost": 40,
-		"requieredTeach": "Bronze Working",
+		"replace": "Barracks",
+	        "cost": 40,
 		"cityStrength": 26,
+		"requieredTeach": "Bronze Working",
 	}
 	]
