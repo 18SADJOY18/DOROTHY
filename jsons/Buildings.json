@@ -43,12 +43,21 @@
 		"requiredTech": "Pottery",
 	},
 	{
-	        "name": "Divine Protection",
+	        
+                "name": "Divine Protection",
                 "replaces": "Walls",
                 "uniqueTo": "DOROTHY",
                 "cost": 50,
                 "requiredTech": "Masonry",
                 "defense": 14,
-                "health": 80
-	}
+                "cityHealth": 80,
+                "effect": [
+        {
+                "stat": "defense",
+                "value": 14
+        },
+        {
+                "stat": "cityHealth",
+                "value": 80
+        }
 	]
