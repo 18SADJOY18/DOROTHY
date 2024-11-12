@@ -1,4 +1,4 @@
-[
+        [
 	{
 		"name": "Ark",
 		"replaces": "Circus Maximus",
@@ -46,6 +46,4 @@
 		"maintenance": 20,
 		"requiredTech": "Pottery",
 	}
-		
-		
-]
+	]
