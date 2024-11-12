@@ -3,7 +3,7 @@
 		"name": "Ark",
 		"replaces": "Circus",
 		"uniqueTo": "Nikke",
-		"cost": 600,
+		"cost": 50,
 		"happiness": 40,
 		"culture": 40,
 		"science": 40,
