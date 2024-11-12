@@ -47,8 +47,8 @@
 		"replaces": "Walls",
 		"uniqueTo": "DOROTHY",
 		"cost": 50,
-		"CityStrength": +14,
-		"CityHealth": +80,
+		"CityStrength": 14,
+		"CityHealth": 80,
 		"requiredTech": "Masonry"
 	}
 	]
