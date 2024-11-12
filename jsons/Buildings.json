@@ -48,7 +48,7 @@
                 "uniqueTo": "DOROTHY",
                 "cost": 50,
                 "requiredTech": "Masonry",
-                "defense_bonus": 14,
-                "city_health_bonus": 80
+                "defense": 14,
+                "health": 80
 	}
 	]
