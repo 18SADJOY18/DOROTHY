@@ -55,10 +55,10 @@
 		"name": "ARK Food Production",
 		"replaces": "Granary",
 		"uniqueTo": "DOROTHY",
-		"cost": 90,
-		"requieredTeach": "Pottery",
+		"cost": 80,
 		"production": 40,
 		"food": 120,
+		"requieredTeach": "Pottery",
 	},
 	{
 		"name": "Statue of Dororthy",
@@ -75,7 +75,7 @@
 		"uniqueTo": "DOROTHY",
 		"replace": "Barracks",
 	        "cost": 40,
-		"cityStrength": 26,
 		"requieredTeach": "Bronze Working",
+		"cityStrength": 26,
 	}
 	]
