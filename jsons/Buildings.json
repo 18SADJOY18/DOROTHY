@@ -58,7 +58,7 @@
 		"cost": 80,
 		"production": 40,
 		"food": 120,
-		"requieredTeach": "Pottery",
+		"requieredTech": "Pottery",
 	},
 	{
 		"name": "Statue of Dororthy",
@@ -75,7 +75,7 @@
 		"uniqueTo": "DOROTHY",
 		"replace": "Barracks",
 	        "cost": 40,
-		"requieredTeach": "Bronze Working",
+		"requieredTech": "Bronze Working",
 		"cityStrength": 26,
 	}
 	]
