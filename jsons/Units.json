@@ -19,10 +19,10 @@
 		"unitType": "Sword",
 		"uniqueTo": "DOROTHY",
 		"replaces": "Warrior",
-		"movement": 4,
-		"strength": 60,
+		"movement": 3,
+		"strength": 16,
 		"range": 1,
-		"cost": 140,
+		"cost": 100,
 		
 	}
         ]
