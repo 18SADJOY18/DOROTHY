@@ -38,6 +38,7 @@
                 "faith": 28,
 		"happiness": 20,
 		"culture": 20,
+		"gold": 80,
 		"maintenance": 20,
 		"requiredTech": "Pottery",
 	}
