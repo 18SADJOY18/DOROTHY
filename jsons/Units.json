@@ -2,7 +2,7 @@
 	{
 		"name": "Phasers",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "DOROTHY",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
@@ -17,7 +17,7 @@
 	{
 		"name": "Nikke Mass Production",
 		"unitType": "Sword",
-		"uniqueTo": "Nikke",
+		"uniqueTo": "DOROTHY",
 		"replaces": "Warrior",
 		"movement": 4,
 		"strength": 60,
