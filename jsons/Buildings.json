@@ -59,5 +59,15 @@
 		"requieredTeach": "Pottery",
 		"production": 40,
 		"food": 120,
+	},
+	{
+		"name": "Statue of Dororthy",
+		"replaces": "Monument",
+		"uniqueTo": "DOROTHY",
+		"cost": 40,
+		"happines": 16,
+		"food": 40,
+		"production": 12,
+		"culture": 10,
 	}
 	]
