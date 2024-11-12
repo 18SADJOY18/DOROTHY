@@ -43,14 +43,12 @@
 		"requiredTech": "Pottery",
 	},
 	{
-		
-                "name": "Divine Protection",
-                "type": "improvement",
+	        "name": "Divine Protection",
+                "replaces": "Walls",
                 "uniqueTo": "DOROTHY",
                 "cost": 50,
-                "defense_bonus": 14,
-                "city_health_bonus": 80,
                 "requiredTech": "Masonry",
-                "replaces": "Walls"
+                "defense_bonus": 14,
+                "city_health_bonus": 80
 	}
 	]
