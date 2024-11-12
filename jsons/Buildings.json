@@ -41,5 +41,13 @@
 		"gold": 80,
 		"maintenance": 20,
 		"requiredTech": "Pottery",
+	},
+	{
+		"name": "Divine Protection",
+		"replaces": "Walls",
+		"uniqueTo": "DOROTHY",
+		"cost": 50,
+		"CityStrength": 14,
+		"CityHealth": 80,
 	}
 	]
