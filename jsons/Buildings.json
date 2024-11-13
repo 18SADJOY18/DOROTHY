@@ -84,7 +84,7 @@
 		"replaces": "Colosseum",
 		"happines": 18,
 		"maintenance": 1,
-		"requiredTech": "Construction"'
+		"requiredTech": "Construction"
 	},
 	{
 		"name": "Advise"
