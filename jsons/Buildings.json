@@ -4,9 +4,9 @@
 		"replaces": "Circus",
 		"uniqueTo": "DOROTHY",
 		"cost": 50,
-		"happiness": 10,
-		"culture": 10,
-		"science": 10,
+		"happiness": 18,
+		"culture": 18,
+		"science": 18,
 		"maintenance": 10,
 		"requiredTech": "Trapping",
 	},
@@ -77,5 +77,20 @@
 	        "cost": 40,
 		"requiredTech": "Bronze Working",
 		"cityStrength": 26,
+	},
+	{
+		"name": "Arena",
+		"uniqueTo": "DOROTHY",
+		"replaces": "Colosseum",
+		"happines": 18,
+		"maintenance": 1,
+		"requiredTech": "Construction"'
+	},
+	{
+		"name": "Advise"
+		"uniqueTo": "DOROTHY"
+		"replaces": "Library"
+		"science": 40,
+		"requiredTech": "Writing"
 	}
 	]
