@@ -16,10 +16,8 @@
                 "uniqueTo": "DOROTHY",
                 "cost": 120,
                 "happiness": 60,
-                "uniques": [
-                "Provides +3 [Food] in all cities"
-                ],
-               "requiredTech": "Engineering"
+                "uniques": ["Provides +3 [Food] per Citizen"],
+                "requiredTech": "Engineering"
 
 
 	},
