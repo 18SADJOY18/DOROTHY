@@ -16,7 +16,7 @@
 		"uniqueTo": "DOROTHY",
 		"cost": 120,
 		"happiness": 60, 
-		"uniques": "Produces +20 [Food] perturn"
+		"uniques": "Produces +20 [Food] perturn",
 		"requiredTech": "Engineering",
 
 	},
