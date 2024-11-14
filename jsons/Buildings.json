@@ -16,9 +16,13 @@
                 "uniqueTo": "DOROTHY",
                 "cost": 120,
                 "happiness": 60,
-                "requiredTech": "Engineering"
-
-
+                "requiredTech": "Engineering",
+		"bonuses": [
+		{
+			"type": "Food",
+			"value": 14,
+			"resource": "Deer"
+		}
 	},
 	{
 		"name": "Study Room",
