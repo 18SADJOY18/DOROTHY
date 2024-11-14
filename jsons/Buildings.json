@@ -16,7 +16,6 @@
                 "uniqueTo": "DOROTHY",
                 "cost": 120,
                 "happiness": 60,
-                "uniques": ["Provides +3 [Food] per Citizen"],
                 "requiredTech": "Engineering"
 
 
@@ -88,10 +87,10 @@
 		"requiredTech": "Construction"
 	},
 	{
-		"name": "Advise"
-		"uniqueTo": "DOROTHY"
-		"replaces": "Library"
+		"name": "Advise",
+		"uniqueTo": "DOROTHY",
+		"replaces": "Library",
 		"science": 40,
-		"requiredTech": "Writing"
+		"requiredTech": "Writing",
 	}
 	]
