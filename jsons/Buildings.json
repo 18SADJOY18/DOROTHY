@@ -17,7 +17,7 @@
                 "cost": 120,
                 "happiness": 60,
                 "uniques": [
-                "Provides +20 [Food] per turn"
+                "Provides +20 [Food] per Cotizen"
                 ],
                "requiredTech": "Engineering"
 
