@@ -12,12 +12,15 @@
 	},
 	{
 		"name": "Ducts",
-		"replaces": "Aqueduct",
-		"uniqueTo": "DOROTHY",
-		"cost": 120,
-		"happiness": 60, 
-		"uniques": "Produces +20 [Food] perturn",
-		"requiredTech": "Engineering",
+                "replaces": "Aqueduct",
+                "uniqueTo": "DOROTHY",
+                "cost": 120,
+                "happiness": 60,
+                "uniques": [
+                "Produces +20 [Food] per turn"
+                ],
+               "requiredTech": "Engineering"
+
 
 	},
 	{
